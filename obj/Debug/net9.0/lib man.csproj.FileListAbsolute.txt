@@ -1,0 +1,14 @@
+C:\WNS\lib man\obj\Debug\net9.0\lib man.GeneratedMSBuildEditorConfig.editorconfig
+C:\WNS\lib man\obj\Debug\net9.0\lib man.AssemblyInfoInputs.cache
+C:\WNS\lib man\obj\Debug\net9.0\lib man.AssemblyInfo.cs
+C:\WNS\lib man\obj\Debug\net9.0\lib man.csproj.CoreCompileInputs.cache
+C:\WNS\lib man\bin\Debug\net9.0\lib man.exe
+C:\WNS\lib man\bin\Debug\net9.0\lib man.deps.json
+C:\WNS\lib man\bin\Debug\net9.0\lib man.runtimeconfig.json
+C:\WNS\lib man\bin\Debug\net9.0\lib man.dll
+C:\WNS\lib man\bin\Debug\net9.0\lib man.pdb
+C:\WNS\lib man\obj\Debug\net9.0\lib man.dll
+C:\WNS\lib man\obj\Debug\net9.0\refint\lib man.dll
+C:\WNS\lib man\obj\Debug\net9.0\lib man.pdb
+C:\WNS\lib man\obj\Debug\net9.0\lib man.genruntimeconfig.cache
+C:\WNS\lib man\obj\Debug\net9.0\ref\lib man.dll
