@@ -12,3 +12,4 @@ C:\WNS\lib man\obj\Debug\net9.0\refint\lib man.dll
 C:\WNS\lib man\obj\Debug\net9.0\lib man.pdb
 C:\WNS\lib man\obj\Debug\net9.0\lib man.genruntimeconfig.cache
 C:\WNS\lib man\obj\Debug\net9.0\ref\lib man.dll
+C:\WNS\lib man\obj\Debug\net9.0\lib man.sourcelink.json
