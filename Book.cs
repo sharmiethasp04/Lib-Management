@@ -16,12 +16,17 @@ class Book : LibraryItem
     {
         Title = title;
         Author = author;
-        ISBN = isbn;
         Id = id;
+        // if (isbn.Length != 16)
+        // {
+        //     throw new InvalidBookException("ISBN must be 16 letters long");
+        // }
+        ISBN = isbn;
     }
 
 
     public void DisplayDetails() {
+        Console.WriteLine("-----------");
         Console.WriteLine($"ISBN: {ISBN}");
         Console.WriteLine($"Author: {Author}");
     }

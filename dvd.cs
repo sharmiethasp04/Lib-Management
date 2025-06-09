@@ -13,6 +13,7 @@ class Dvd : LibraryItem
 
     public void DisplayDetails()
     {
+        Console.WriteLine("------------");
         Console.WriteLine($"IssueNumber: {Issuenumber}");
     }
 }

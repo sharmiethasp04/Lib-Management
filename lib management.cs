@@ -13,6 +13,7 @@ class Magazine : LibraryItem
 
     public void DisplayDetails()
     {
+        Console.WriteLine("------------");
         Console.WriteLine($"IssueNumber: {Issuenumber}");
     }
 }
